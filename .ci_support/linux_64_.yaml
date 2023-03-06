@@ -30,8 +30,6 @@ libuuid:
 - '2'
 ncurses:
 - '6'
-openssl:
-- '3'
 readline:
 - '8'
 target_platform:
