@@ -31,7 +31,7 @@ requirements:
     - libuuid
     - ncurses
     - openjdk
-    - openssl
+    - openssl "1.1.1t h7f8727e_0"
     - readline
     - unixodbc
     - xorg-libice
@@ -66,6 +66,5 @@ about:
 
 extra:
   recipe-maintainers:
-    - Guthur
     - osallou
     - bollwyvl
