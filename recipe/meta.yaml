@@ -55,7 +55,7 @@ test:
     - swipl -g "writeln('hello world')." -t 'halt.'
 
 output:
-  - name: {{ name|lower }}
+  - name: {{ name|lower }}_openssl_3
     requirements:
       host:
         - openssl
